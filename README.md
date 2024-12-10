@@ -1,6 +1,6 @@
 # Treinamento de Redes Neurais com Transfer Learning
 
-![DIO(modulo2.jpg)
+![DIO](modulo2.jpg)
 
 No desafio do segundo módulo do Bootcampo BairesDev - Machine Learning Practitioner promovido pela DIO chamado "Treinamento de Redes Neurais com Transfer Learning" foi aplicado o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB.  
 
