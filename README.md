@@ -6,9 +6,9 @@ No desafio do segundo módulo do Bootcampo BairesDev - Machine Learning Practiti
 
 Bibliotecas utilizadas:
 
-Keras
-Numpy
-Matplotlib
+- Keras
+- Numpy
+- Matplotlib
 
 Foram feitas duas versões do código. Uma treinando uma rede neural do zero (arquivo modulo2_final_2) e outra treinando uma rede neural fazendo transfer learning (arquivo modulo2_final).
 
